@@ -69,5 +69,6 @@ public class LunchCostSplitter {
         for (Map.Entry<String, Double> entry : personToTotalCost.entrySet()) {
             System.out.println(entry.getKey() + ": Rp " + String.format("%.2f", entry.getValue()));
         }
+        System.out.println("\nTerima Kasih :) :) :)");
     }
 }
