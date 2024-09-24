@@ -65,7 +65,7 @@ public class LunchCostSplitter {
 
         // Menampilkan hasil akhir biaya per orang dengan judul makan siang
         System.out.println("\n" + lunchTitle);
-        System.out.println("Biaya akhir per orang setelah pajak dan diskon:");
+        System.out.println("Biaya akhir lu pada udah diitung sama pajak dan diskon:");
         for (Map.Entry<String, Double> entry : personToTotalCost.entrySet()) {
             System.out.println(entry.getKey() + ": Rp " + String.format("%.2f", entry.getValue()));
         }
