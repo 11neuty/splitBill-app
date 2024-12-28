@@ -1,5 +1,9 @@
 # 🌟 Aplikasi Split Bill
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/0bea4744-d84c-4af5-9b7c-e216d9292825" alt="Logo Aplikasi" width="300" />
+</div>
+
 Aplikasi ini adalah alat sederhana untuk membagi tagihan (split bill) di antara beberapa orang. Aplikasi ini juga dapat menghitung diskon dan pajak, sehingga memudahkan pengguna untuk mengetahui berapa banyak yang harus dibayar oleh setiap orang.
 
 ## 📋 Fitur
