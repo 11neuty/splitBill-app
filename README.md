@@ -46,4 +46,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## 📫 Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Ryan D Pratama] di [ryandaffapratama@gmail.com].
+Jika Anda memiliki pertanyaan atau masukan, silakan hubungi Ryan di ryandaffapratama@gmail.com.
