@@ -1,8 +1,10 @@
+package com.example;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class LunchCostSplitter {
+public class kalkulatorVendor {
 
     // Method to calculate the total cost per person considering tax and discount
     public static Map<String, Double> calculateCostPerPerson(Map<String, Double> personToFoodCost, double totalTax, double totalDiscount) {
