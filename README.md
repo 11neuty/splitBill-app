@@ -1,15 +1,15 @@
-# Aplikasi Split Bill
+# 🌟 Aplikasi Split Bill
 
 Aplikasi ini adalah alat sederhana untuk membagi tagihan (split bill) di antara beberapa orang. Aplikasi ini juga dapat menghitung diskon dan pajak, sehingga memudahkan pengguna untuk mengetahui berapa banyak yang harus dibayar oleh setiap orang.
 
-## Fitur
+## 📋 Fitur
 
 - **Hitung Total Tagihan**: Masukkan jumlah total tagihan yang ingin dibagi.
 - **Diskon**: Masukkan persentase diskon yang ingin diterapkan pada total tagihan.
 - **Pajak**: Masukkan persentase pajak yang ingin diterapkan setelah diskon.
 - **Pembagian Tagihan**: Aplikasi akan menghitung berapa banyak yang harus dibayar oleh setiap orang setelah diskon dan pajak diterapkan.
 
-## Cara Menggunakan
+## 🚀 Cara Menggunakan
 
 1. **Persyaratan**:
    - Pastikan Anda memiliki Java Runtime Environment (JRE) terinstal di komputer Anda. Anda dapat memeriksa versi Java dengan menjalankan perintah berikut di terminal atau command prompt:
@@ -32,18 +32,18 @@ Aplikasi ini adalah alat sederhana untuk membagi tagihan (split bill) di antara 
 4. **Lihat Hasil**:
    - Aplikasi akan menampilkan total yang harus dibayar oleh setiap orang setelah menghitung diskon dan pajak.
 
-## Contoh Penggunaan
+## 💡Contoh Penggunaan
 
 Misalkan Anda memiliki total tagihan sebesar $100, dengan diskon 10% dan pajak 5%, dan Anda ingin membagi tagihan tersebut di antara 4 orang. Aplikasi akan menghitung total yang harus dibayar oleh setiap orang setelah menerapkan diskon dan pajak.
 
-## Kontribusi
+## 🤝 Kontribusi
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau buka isu untuk diskusi.
 
-## Lisensi
+## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
-## Kontak
+## 📫 Kontak
 
 Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Ryan D Pratama] di [ryandaffapratama@gmail.com].
